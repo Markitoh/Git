@@ -19,7 +19,7 @@ public static void Publicar(String Nombre, String Apellido, int Edad, String tra
 	public static void main (String [] args) {
 		// TODO Auto-generated method stub
 
-	Publicar("Marco", "Brujan", 45, "NT");
+	Publicar("", "", 0, "");
 		
 	}
 	
